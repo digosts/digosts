@@ -11,5 +11,3 @@ Soft Skills: VUE JS / REACT / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/digosts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digosts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=digosts&show_icons=true&theme=radical)  
