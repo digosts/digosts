@@ -1,11 +1,17 @@
-### Ola, seja bem vindo ao meu perfil! 👋
+# Ola, seja bem vindo ao meu perfil! 👋
+
+<img align="right" src="https://ik.imagekit.io/danilovieira/undraw_hacker_mind_6y85_Zn1Vl8GZC.png" width="350"/>
+
+Learning day by day and helping devs. Enthusiast of technology and lover of React & NodeJS stack.
 
 Soft Skills: VUE JS / REACT / JS / HTML / CSS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/digosts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rodrigo-braga-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rvupdesign.com.br/)  
+![GitHub followers](https://img.shields.io/github/followers/danilo-vieira?labelColor=8257e5&color=8257e5&logo=github&label=Followers&logoColor=white&style=flat-square)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Vieira-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-braga-developer/)](https://www.linkedin.com/in/rodrigo-braga-developer/)
+
+![Profile views](https://gpvc.arturio.dev/digosts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digosts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=digosts&show_icons=true&theme=radical)  
-
-![Profile views](https://gpvc.arturio.dev/digosts)  
